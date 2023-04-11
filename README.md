@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi, Kamrul here</h1>
+<h1>Hi, I am Kamrul Hasan</h1>
 
 
 ## 🌐 Socials:

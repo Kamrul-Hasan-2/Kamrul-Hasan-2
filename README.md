@@ -1,5 +1,7 @@
 # 💫 About Me:
-<h1>Hi, I am Kamrul Hasan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,%2C+I+am Kamrul Hasan" alt="Typing Animation">
+</p>
 
 
 ## 🌐 Socials:

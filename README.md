@@ -8,11 +8,10 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🔭 Experienced Flutter Developer with strong focus on building efficient cross-platform mobile applications
-- 🌱 Passionate about clean architecture, state management solutions, and performance optimization
-- 💡 Problem solver with a background in competitive programming and algorithm design
-- 🚀 Dedicated to creating intuitive user interfaces with seamless user experiences
-- 📚 Continuous learner, always exploring new technologies and development methodologies
+-  Experienced Flutter Developer with strong focus on building efficient cross-platform mobile applications
+-  Passionate about clean architecture, state management solutions, and performance optimization
+-  Dedicated to creating intuitive user interfaces with seamless user experiences
+-  Continuous learner, always exploring new technologies and development methodologies
 
 <p align="center">
   <a href="mailto:hasankamrulhp@gmail.com"><img src="https://img.shields.io/badge/Email-hasankamrulhp%40gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -31,19 +30,15 @@
 
 ### Programming Languages
 <p align="left"> 
-  &emsp; 
   <a href="https://dart.dev/" target="_blank"> 
     <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
-  &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   </a> 
-  &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
-  &emsp;
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
@@ -51,31 +46,24 @@
 
 ### Technologies
 <p align="left">
-  &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   </a> 
-  &emsp;
   <a href="https://restfulapi.net/" target="_blank">
     <img alt="REST API" src="https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=api&logoColor=white">
   </a>
-  &emsp;
   <a href="https://pub.dev/packages/get" target="_blank"> 
     <img alt="GetX" src="https://img.shields.io/badge/GetX-%23121011.svg?style=for-the-badge&logo=getx&logoColor=white">
   </a>
-  &emsp;
   <a href="https://firebase.google.com/" target="_blank">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   </a>
-  &emsp;
   <a href="https://developers.google.com/maps" target="_blank"> 
     <img alt="Google Maps" src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google%20maps&logoColor=white"/>
   </a>
-  &emsp;
   <a href="https://analytics.google.com/" target="_blank">
     <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
   </a>
-  &emsp;
   <a href="https://www.mysql.com/" target="_blank"> 
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
@@ -83,23 +71,18 @@
 
 ### Tools
 <p align="left">
-  &emsp;
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
-  &emsp;
   <a href="https://github.com/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &emsp;
   <a href="https://developer.android.com/studio" target="_blank"> 
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
   </a>
-  &emsp;
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a>
-  &emsp;
   <a href="https://www.postman.com/" target="_blank"> 
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   </a>
@@ -107,7 +90,6 @@
 
 ### Others/Activities
 <p align="left">
-  &emsp;
   <a href="#" target="_blank">
     <img alt="Competitive Programming" src="https://img.shields.io/badge/Competitive%20Programming-FFA116?style=for-the-badge&logo=codecademy&logoColor=white"/>
   </a>

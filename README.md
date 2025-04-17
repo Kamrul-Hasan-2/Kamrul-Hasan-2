@@ -7,6 +7,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
+## 👨‍💻 About Me
+- 🔭 Experienced Flutter Developer with strong focus on building efficient cross-platform mobile applications
+- 🌱 Passionate about clean architecture, state management solutions, and performance optimization
+- 💡 Problem solver with a background in competitive programming and algorithm design
+- 🚀 Dedicated to creating intuitive user interfaces with seamless user experiences
+- 📚 Continuous learner, always exploring new technologies and development methodologies
+
 <p align="center">
   <a href="mailto:hasankamrulhp@gmail.com"><img src="https://img.shields.io/badge/Email-hasankamrulhp%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
@@ -104,20 +111,23 @@
   <a href="#" target="_blank">
     <img alt="Competitive Programming" src="https://img.shields.io/badge/Competitive%20Programming-FFA116?style=for-the-badge&logo=codecademy&logoColor=white"/>
   </a>
-
 </p>
 
 # 📊 GitHub Stats:
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=Kamrul-Hasan-2&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+  <img style="width: 45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamrul-Hasan-2&theme=radical&hide_border=false" />
+</div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamrul-Hasan-2&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamrul-Hasan-2&theme=radical&hide_border=false" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamrul-Hasan-2&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kamrul-Hasan-2&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kamrul-Hasan-2&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,7 +1,8 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi, I am Kamrul.;Mobile+App+Developer;Competitive+Programmer;Flutter+Enthusiast" alt="Typing Animation">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=3F8EFC&center=true&vCenter=true&width=435&lines=Hello+there%2C+I+am+Kamrul+Hasan;I+am+a+Flutter+Developer" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
